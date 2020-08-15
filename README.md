@@ -10,6 +10,7 @@ The tests are failing right now because the method isn't outputting the correct 
     + [Requirements](#requirements)
     + [Accepting the assignment](#accepting-the-assignment)
     + [Working on the assignment](#working-on-the-assignment)
+    + [Submitting the assignment](#submitting-the-assignment)
     + [Working on the assignment (Repl.it)](#working-on-the-assignment--replit-)
     + [Submitting the assignment (Repl.it)](#submitting-the-assignment--replit-)
     + [Feedback](#feedback)
@@ -30,8 +31,9 @@ The tests are failing right now because the method isn't outputting the correct 
 - Click the link to open your assignment GitHub repository.
 
 ### Working on the assignment
-You have the option to work on the assignment using Repl.it. If this is the case, follow the instructions in the [Working in Repl.it](#working-in-replit) section.
+You have the option to work on the assignment using Repl.it. If this is the case, follow the instructions in the [Working in Repl.it](#working-in-replit) section. Otherwise, you can work in any environment you wish.
 
+### Submitting the assignment
 You can also simply work on your code wherever and paste it into `main.py` right in GitHub.
 - Click on `main.py`.
 - Click the edit icon on the top-right of the code file box.
