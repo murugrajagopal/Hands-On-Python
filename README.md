@@ -14,9 +14,9 @@ The tests are failing right now because the method isn't outputting the correct 
     + [Working on the assignment (Repl.it)](#working-on-the-assignment--replit-)
     + [Submitting the assignment (Repl.it)](#submitting-the-assignment--replit-)
     + [Feedback](#feedback)
-    + [Setup command](#setup-command)
-    + [Run command](#run-command)
-    + [Notes](#notes)
+    + [Setup command](#setup-command) (for teacher)
+    + [Run command](#run-command) (for teacher)
+    + [Notes](#notes) (for teacher)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
