@@ -10,6 +10,7 @@ The tests are failing right now because the function isn't outputting the correc
     + [Requirements](#requirements)
     + [Accepting the assignment](#accepting-the-assignment)
     + [Working on the assignment](#working-on-the-assignment)
+    + [Testing your assignment](#testing-your-assignment)
     + [Submitting the assignment](#submitting-the-assignment)
     + [Working on the assignment (Repl.it)](#working-on-the-assignment--replit-)
     + [Submitting the assignment (Repl.it)](#submitting-the-assignment--replit-)
@@ -32,6 +33,11 @@ The tests are failing right now because the function isn't outputting the correc
 
 ### Working on the assignment
 You have the option to work on the assignment using Repl.it. If this is the case, follow the instructions in the [Working in Repl.it](#working-in-replit) section. Otherwise, you can work in any environment you wish.
+
+### Testing your assignment
+1. Open the terminal
+        - In repl.it: `ctrl + shift + s`.
+2. Type `pytest` in the terminal.
 
 ### Submitting the assignment
 You can also simply work on your code wherever and paste it into `main.py` right in GitHub.
